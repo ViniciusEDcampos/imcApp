@@ -17,7 +17,7 @@ import com.google.android.material.snackbar.Snackbar;
 public class MainActivity extends AppCompatActivity {
 
     private EditText peso,altura;
-    private TextView resultado, txtError;
+    private TextView resultado;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
